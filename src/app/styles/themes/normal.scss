@@ -1,5 +1,10 @@
-.app.normal {
+.app.light {
   --bg-color: #efefef;
+  --inverted-bg-color: #3a3a3a;
+
   --primary-color: rgba(8, 88, 232, 0.64);
   --secondary-color: #011a57;
+
+  --inverted-primary-color: #bbbbbb;
+  --inverted-secondary-color: #707070;
 }
